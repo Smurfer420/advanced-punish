@@ -1,5 +1,5 @@
-Plugin Name: [Your Plugin Name]
-Copyright (c) 2026 [Your Name or Alias]
+Plugin Name: Advanced Punish
+Copyright (c) 2026 Smurfer
 All Rights Reserved
 
 IMPORTANT: READ THIS LICENSE CAREFULLY.
